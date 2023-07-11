@@ -1,0 +1,125 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.45, 31.38]
+      },
+      "properties": {
+        "year": 1887,
+        "event": "Birth",
+        "details": "Chiang Kai-shek was born in Xikou, a town approximately 30 kilometers southwest of downtown Ningbo, in Fenghua."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.4737, 31.2304]
+      },
+      "properties": {
+        "year": 1927,
+        "event": "Nanjing decade starts",
+        "details": "The Nanjing decade was marked by Chiang Kai-Shek's rule over the Republic of China, which had its capital at Nanjing."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.5495, 25.0442]
+      },
+      "properties": {
+        "year": 1949,
+        "event": "Retreat to Taiwan",
+        "details": "Chiang Kai-shek retreated to Taiwan following the success of the Communists in the Chinese Civil War."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.4074, 39.9042]
+      },
+      "properties": {
+        "year": 1928,
+        "event": "Northern Expedition",
+        "details": "Chiang Kai-shek led the Northern Expedition, a military campaign to unify China under the Kuomintang government."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.3972, 39.9389]
+      },
+      "properties": {
+        "year": 1937,
+        "event": "Marco Polo Bridge Incident",
+        "details": "The Marco Polo Bridge Incident marked the beginning of the Second Sino-Japanese War, and Chiang Kai-shek's leadership against Japanese aggression."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.8294, 40.4112]
+      },
+      "properties": {
+        "year": 1943,
+        "event": "Cairo Conference",
+        "details": "Chiang Kai-shek attended the Cairo Conference, where discussions on post-war Asia were held among the Allied leaders."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.4074, 39.9042]
+      },
+      "properties": {
+        "year": 1945,
+        "event": "Victory over Japan",
+        "details": "Chiang Kai-shek announced China's victory over Japan and the end of World War II in Asia."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.4714, 39.9729]
+      },
+      "properties": {
+        "year": 1947,
+        "event": "228 Incident",
+        "details": "The 228 Incident was an anti-government uprising in Taiwan, which resulted in Chiang Kai-shek's administration imposing martial law."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120.9605, 24.8138]
+      },
+      "properties": {
+        "year": 1953,
+        "event": "San Francisco Peace Treaty",
+        "details": "Chiang Kai-shek's government signed the San Francisco Peace Treaty, which formally ended the war between Japan and the Allied powers."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.5654, 25.0329]
+      },
+      "properties": {
+        "year": 1975,
+        "event": "Death",
+        "details": "Chiang Kai-shek passed away in Taipei, Taiwan."
+      }
+    }
+  ]
+}

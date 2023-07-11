@@ -1,0 +1,125 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.1095, 37.9404]
+      },
+      "properties": {
+        "year": 1893,
+        "event": "Birth",
+        "details": "Mao Zedong was born in Shaoshan, Hunan Province, China."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.5156, 36.0581]
+      },
+      "properties": {
+        "year": 1921,
+        "event": "Founding of the Chinese Communist Party",
+        "details": "Mao Zedong was one of the founding members of the Chinese Communist Party."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [116.4074, 39.9042]
+      },
+      "properties": {
+        "year": 1949,
+        "event": "Establishment of the People's Republic of China",
+        "details": "Mao Zedong proclaimed the establishment of the People's Republic of China in Beijing."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.9388, 28.2282]
+      },
+      "properties": {
+        "year": 1927,
+        "event": "Nanchang Uprising",
+        "details": "Mao Zedong participated in the Nanchang Uprising, one of the early armed uprisings of the Chinese Communist Party."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.4735, 29.3774]
+      },
+      "properties": {
+        "year": 1934,
+        "event": "Long March",
+        "details": "Mao Zedong led the Red Army on the Long March, a military retreat undertaken by the Communist Party of China."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [104.0657, 30.6595]
+      },
+      "properties": {
+        "year": 1935,
+        "event": "Zunyi Conference",
+        "details": "During the Zunyi Conference, Mao Zedong emerged as a key leader within the Chinese Communist Party."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [108.9402, 34.3416]
+      },
+      "properties": {
+        "year": 1937,
+        "event": "Anti-Japanese War",
+        "details": "Mao Zedong led the Communist Party's efforts in the resistance against the Japanese invasion of China."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.5509, 37.8908]
+      },
+      "properties": {
+        "year": 1947,
+        "event": "Yan'an Rectification Movement",
+        "details": "The Yan'an Rectification Movement aimed to consolidate Mao Zedong's leadership and enforce party discipline."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [109.5047, 19.6122]
+      },
+      "properties": {
+        "year": 1958,
+        "event": "Great Leap Forward",
+        "details": "Mao Zedong launched the Great Leap Forward, an economic and social campaign in China."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [111.7174, 40.8299]
+      },
+      "properties": {
+        "year": 1966,
+        "event": "Cultural Revolution",
+        "details": "Mao Zedong initiated the Cultural Revolution, a socio-political movement in China."
+      }
+    }
+  ]
+}
